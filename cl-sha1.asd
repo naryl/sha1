@@ -3,8 +3,8 @@
 
 (in-package :sha1-asd)
 
-(defsystem :sha1
-  :name "sha1"
+(defsystem :cl-sha1
+  :name "cl-sha1"
   :version "1.0"
   :author "Jeffrey Massung"
   :license "Apache 2.0"
